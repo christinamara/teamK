@@ -21,7 +21,7 @@ class Hand(object):
         Add a card to the list of cards in the hand.
         :return: None
         """
-        if isinstance(card, Card):
+        if type(card) is Card:
             self.cards.append(card)
     
     def has_card(self, card):
@@ -44,6 +44,20 @@ class Hand(object):
             return card
         else:
             return None
+
+    def __repr__(self):
+        """
+        Returns a string representation of a hand.
+        :return: str representation of the list of cards
+        """
+        return str(self.cards)
+
+    def __str__(self):
+         """
+        Returns a string representation of a hand using __repr__
+        :return: str representation of the list of cards
+        """
+        return self.__repr__()
 
 
 

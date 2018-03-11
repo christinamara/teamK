@@ -63,3 +63,17 @@ class Card(object):
         :return: True if self has a lesser or equal value than card
         """
         return self.value() <= card.value()
+
+    def __repr__(self):
+        """
+        Returns a string representation of a card in the format "Card(<rank>, <suit>)"
+        :return: str representation of a card
+        """
+        return "Card(" + str(self.rank) + ", " + str(self.suit) + ")"
+
+    def __str__(self):
+        """
+        Returns a string representation of a card using __repr__
+        :return: str representation of a card
+        """
+        return self.__repr__()
