@@ -36,3 +36,17 @@ class Deck(object):
         :return: length of the cards deque
         """
         return len(self.cards)
+    
+    def __repr__(self):
+        """
+        Returns a string representation of a deck.
+        :return: str representation of a deck
+        """
+        return str(self.cards)
+
+    def __str__(self):
+        """
+        Returns a string representation of a deck using repr
+        :return: str representation of a deck
+        """
+        return self.__repr__()

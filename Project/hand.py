@@ -53,11 +53,12 @@ class Hand(object):
         return str(self.cards)
 
     def __str__(self):
-         """
+        """
         Returns a string representation of a hand using __repr__
         :return: str representation of the list of cards
         """
         return self.__repr__()
+
 
 
 
