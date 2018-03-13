@@ -51,7 +51,7 @@ class Game(object):
         round = 1
         try:
             while True:
-                print("Game Round #" + str(round))
+                print("Game Round #" + str(round) + ". Press ctrl + C to quit game.")
                 # player 1 turn
                 print ("Player 1's turn")
                 turn(self, 1)
@@ -61,4 +61,9 @@ class Game(object):
                 round = round + 1
         except Exception:
             print("Game error")
+
+    def turn(self, player):
+
+
+
 
