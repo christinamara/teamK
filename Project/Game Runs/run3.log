@@ -1,0 +1,1196 @@
+Script started on Tue Mar 13 09:07:13 2018
+[?1034hbash-3.2$ python game.py
+[H[2JPlayer: 1
+Current Suit: H Current Card: Card(3, H)
+
+Your Hand:
+0: Card(8, D)
+1: Card(2, S)
+2: Card(4, H)
+3: Card(J, S)
+4: Card(5, H)
+
+Enter 'D' to draw a card, or enter the number of the card to play. '4'
+[H[2JPlayer: 1
+Current Suit: H Current Card: Card(5, H)
+
+Your Hand:
+0: Card(8, D)
+1: Card(2, S)
+2: Card(4, H)
+3: Card(J, S)
+[H[2JPlayer: 2
+Current Suit: H Current Card: Card(5, H)
+
+Your Hand:
+0: Card(8, S)
+1: Card(Q, D)
+2: Card(10, C)
+3: Card(3, D)
+4: Card(9, D)
+
+Enter 'D' to draw a card, or enter the number of the card to play. 'D'
+[H[2JPlayer: 2
+Current Suit: H Current Card: Card(5, H)
+
+Your Hand:
+0: Card(8, S)
+1: Card(Q, D)
+2: Card(10, C)
+3: Card(3, D)
+4: Card(9, D)
+5: Card(6, H)
+
+Enter 'D' to draw a card, or enter the number of the card to play. '5'
+[H[2JPlayer: 2
+Current Suit: H Current Card: Card(6, H)
+
+Your Hand:
+0: Card(8, S)
+1: Card(Q, D)
+2: Card(10, C)
+3: Card(3, D)
+4: Card(9, D)
+[H[2JPlayer: 1
+Current Suit: H Current Card: Card(6, H)
+
+Your Hand:
+0: Card(8, D)
+1: Card(2, S)
+2: Card(4, H)
+3: Card(J, S)
+
+Enter 'D' to draw a card, or enter the number of the card to play. '2'
+[H[2JPlayer: 1
+Current Suit: H Current Card: Card(4, H)
+
+Your Hand:
+0: Card(8, D)
+1: Card(2, S)
+2: Card(J, S)
+[H[2JPlayer: 2
+Current Suit: H Current Card: Card(4, H)
+
+Your Hand:
+0: Card(8, S)
+1: Card(Q, D)
+2: Card(10, C)
+3: Card(3, D)
+4: Card(9, D)
+
+Enter 'D' to draw a card, or enter the number of the card to play. 'D'
+[H[2JPlayer: 2
+Current Suit: H Current Card: Card(4, H)
+
+Your Hand:
+0: Card(8, S)
+1: Card(Q, D)
+2: Card(10, C)
+3: Card(3, D)
+4: Card(9, D)
+5: Card(J, D)
+
+Enter 'D' to draw a card, or enter the number of the card to play. 'D'
+[H[2JPlayer: 2
+Current Suit: H Current Card: Card(4, H)
+
+Your Hand:
+0: Card(8, S)
+1: Card(Q, D)
+2: Card(10, C)
+3: Card(3, D)
+4: Card(9, D)
+5: Card(J, D)
+6: Card(5, D)
+
+Enter 'D' to draw a card, or enter the number of the card to play. 'D'
+[H[2JPlayer: 2
+Current Suit: H Current Card: Card(4, H)
+
+Your Hand:
+0: Card(8, S)
+1: Card(Q, D)
+2: Card(10, C)
+3: Card(3, D)
+4: Card(9, D)
+5: Card(J, D)
+6: Card(5, D)
+7: Card(3, C)
+
+Enter 'D' to draw a card, or enter the number of the card to play. 'D'
+[H[2JPlayer: 2
+Current Suit: H Current Card: Card(4, H)
+
+Your Hand:
+0: Card(8, S)
+1: Card(Q, D)
+2: Card(10, C)
+3: Card(3, D)
+4: Card(9, D)
+5: Card(J, D)
+6: Card(5, D)
+7: Card(3, C)
+8: Card(5, C)
+
+Enter 'D' to draw a card, or enter the number of the card to play. 'D'
+[H[2JPlayer: 2
+Current Suit: H Current Card: Card(4, H)
+
+Your Hand:
+0: Card(8, S)
+1: Card(Q, D)
+2: Card(10, C)
+3: Card(3, D)
+4: Card(9, D)
+5: Card(J, D)
+6: Card(5, D)
+7: Card(3, C)
+8: Card(5, C)
+9: Card(7, H)
+
+Enter 'D' to draw a card, or enter the number of the card to play. '9'
+[H[2JPlayer: 2
+Current Suit: H Current Card: Card(7, H)
+
+Your Hand:
+0: Card(8, S)
+1: Card(Q, D)
+2: Card(10, C)
+3: Card(3, D)
+4: Card(9, D)
+5: Card(J, D)
+6: Card(5, D)
+7: Card(3, C)
+8: Card(5, C)
+[H[2JPlayer: 1
+Current Suit: H Current Card: Card(7, H)
+
+Your Hand:
+0: Card(8, D)
+1: Card(2, S)
+2: Card(J, S)
+
+Enter 'D' to draw a card, or enter the number of the card to play. 'D'
+[H[2JPlayer: 1
+Current Suit: H Current Card: Card(7, H)
+
+Your Hand:
+0: Card(8, D)
+1: Card(2, S)
+2: Card(J, S)
+3: Card(2, C)
+
+Enter 'D' to draw a card, or enter the number of the card to play. 'D'
+[H[2JPlayer: 1
+Current Suit: H Current Card: Card(7, H)
+
+Your Hand:
+0: Card(8, D)
+1: Card(2, S)
+2: Card(J, S)
+3: Card(2, C)
+4: Card(4, S)
+
+Enter 'D' to draw a card, or enter the number of the card to play. 'D'
+[H[2JPlayer: 1
+Current Suit: H Current Card: Card(7, H)
+
+Your Hand:
+0: Card(8, D)
+1: Card(2, S)
+2: Card(J, S)
+3: Card(2, C)
+4: Card(4, S)
+5: Card(A, H)
+
+Enter 'D' to draw a card, or enter the number of the card to play. '5'
+[H[2JPlayer: 1
+Current Suit: H Current Card: Card(A, H)
+
+Your Hand:
+0: Card(8, D)
+1: Card(2, S)
+2: Card(J, S)
+3: Card(2, C)
+4: Card(4, S)
+[H[2JPlayer: 2
+Current Suit: H Current Card: Card(A, H)
+
+Your Hand:
+0: Card(8, S)
+1: Card(Q, D)
+2: Card(10, C)
+3: Card(3, D)
+4: Card(9, D)
+5: Card(J, D)
+6: Card(5, D)
+7: Card(3, C)
+8: Card(5, C)
+
+Enter 'D' to draw a card, or enter the number of the card to play. 'D'
+[H[2JPlayer: 2
+Current Suit: H Current Card: Card(A, H)
+
+Your Hand:
+0: Card(8, S)
+1: Card(Q, D)
+2: Card(10, C)
+3: Card(3, D)
+4: Card(9, D)
+5: Card(J, D)
+6: Card(5, D)
+7: Card(3, C)
+8: Card(5, C)
+9: Card(9, H)
+
+Enter 'D' to draw a card, or enter the number of the card to play. 'D'
+[H[2JPlayer: 2
+Current Suit: H Current Card: Card(A, H)
+
+Your Hand:
+0: Card(8, S)
+1: Card(Q, D)
+2: Card(10, C)
+3: Card(3, D)
+4: Card(9, D)
+5: Card(J, D)
+6: Card(5, D)
+7: Card(3, C)
+8: Card(5, C)
+9: Card(9, H)
+10: Card(Q, S)
+
+Enter 'D' to draw a card, or enter the number of the card to play. 'D'
+[H[2JPlayer: 2
+Current Suit: H Current Card: Card(A, H)
+
+Your Hand:
+0: Card(8, S)
+1: Card(Q, D)
+2: Card(10, C)
+3: Card(3, D)
+4: Card(9, D)
+5: Card(J, D)
+6: Card(5, D)
+7: Card(3, C)
+8: Card(5, C)
+9: Card(9, H)
+10: Card(Q, S)
+11: Card(2, H)
+
+Enter 'D' to draw a card, or enter the number of the card to play. 'D'
+[H[2JPlayer: 2
+Current Suit: H Current Card: Card(A, H)
+
+Your Hand:
+0: Card(8, S)
+1: Card(Q, D)
+2: Card(10, C)
+3: Card(3, D)
+4: Card(9, D)
+5: Card(J, D)
+6: Card(5, D)
+7: Card(3, C)
+8: Card(5, C)
+9: Card(9, H)
+10: Card(Q, S)
+11: Card(2, H)
+12: Card(10, H)
+
+Enter 'D' to draw a card, or enter the number of the card to play. 'D'
+[H[2JPlayer: 2
+Current Suit: H Current Card: Card(A, H)
+
+Your Hand:
+0: Card(8, S)
+1: Card(Q, D)
+2: Card(10, C)
+3: Card(3, D)
+4: Card(9, D)
+5: Card(J, D)
+6: Card(5, D)
+7: Card(3, C)
+8: Card(5, C)
+9: Card(9, H)
+10: Card(Q, S)
+11: Card(2, H)
+12: Card(10, H)
+13: Card(8, H)
+
+Enter 'D' to draw a card, or enter the number of the card to play. 'D'
+[H[2JPlayer: 2
+Current Suit: H Current Card: Card(A, H)
+
+Your Hand:
+0: Card(8, S)
+1: Card(Q, D)
+2: Card(10, C)
+3: Card(3, D)
+4: Card(9, D)
+5: Card(J, D)
+6: Card(5, D)
+7: Card(3, C)
+8: Card(5, C)
+9: Card(9, H)
+10: Card(Q, S)
+11: Card(2, H)
+12: Card(10, H)
+13: Card(8, H)
+14: Card(7, S)
+
+Enter 'D' to draw a card, or enter the number of the card to play. 'D'
+[H[2JPlayer: 2
+Current Suit: H Current Card: Card(A, H)
+
+Your Hand:
+0: Card(8, S)
+1: Card(Q, D)
+2: Card(10, C)
+3: Card(3, D)
+4: Card(9, D)
+5: Card(J, D)
+6: Card(5, D)
+7: Card(3, C)
+8: Card(5, C)
+9: Card(9, H)
+10: Card(Q, S)
+11: Card(2, H)
+12: Card(10, H)
+13: Card(8, H)
+14: Card(7, S)
+15: Card(4, D)
+
+Enter 'D' to draw a card, or enter the number of the card to play. 'D'
+[H[2JPlayer: 2
+Current Suit: H Current Card: Card(A, H)
+
+Your Hand:
+0: Card(8, S)
+1: Card(Q, D)
+2: Card(10, C)
+3: Card(3, D)
+4: Card(9, D)
+5: Card(J, D)
+6: Card(5, D)
+7: Card(3, C)
+8: Card(5, C)
+9: Card(9, H)
+10: Card(Q, S)
+11: Card(2, H)
+12: Card(10, H)
+13: Card(8, H)
+14: Card(7, S)
+15: Card(4, D)
+16: Card(K, C)
+
+Enter 'D' to draw a card, or enter the number of the card to play. 'd D'
+[H[2JPlayer: 2
+Current Suit: H Current Card: Card(A, H)
+
+Your Hand:
+0: Card(8, S)
+1: Card(Q, D)
+2: Card(10, C)
+3: Card(3, D)
+4: Card(9, D)
+5: Card(J, D)
+6: Card(5, D)
+7: Card(3, C)
+8: Card(5, C)
+9: Card(9, H)
+10: Card(Q, S)
+11: Card(2, H)
+12: Card(10, H)
+13: Card(8, H)
+14: Card(7, S)
+15: Card(4, D)
+16: Card(K, C)
+17: Card(Q, H)
+
+Enter 'D' to draw a card, or enter the number of the card to play. 'D'
+[H[2JPlayer: 2
+Current Suit: H Current Card: Card(A, H)
+
+Your Hand:
+0: Card(8, S)
+1: Card(Q, D)
+2: Card(10, C)
+3: Card(3, D)
+4: Card(9, D)
+5: Card(J, D)
+6: Card(5, D)
+7: Card(3, C)
+8: Card(5, C)
+9: Card(9, H)
+10: Card(Q, S)
+11: Card(2, H)
+12: Card(10, H)
+13: Card(8, H)
+14: Card(7, S)
+15: Card(4, D)
+16: Card(K, C)
+17: Card(Q, H)
+18: Card(Q, C)
+
+Enter 'D' to draw a card, or enter the number of the card to play. 'D'
+[H[2JPlayer: 2
+Current Suit: H Current Card: Card(A, H)
+
+Your Hand:
+0: Card(8, S)
+1: Card(Q, D)
+2: Card(10, C)
+3: Card(3, D)
+4: Card(9, D)
+5: Card(J, D)
+6: Card(5, D)
+7: Card(3, C)
+8: Card(5, C)
+9: Card(9, H)
+10: Card(Q, S)
+11: Card(2, H)
+12: Card(10, H)
+13: Card(8, H)
+14: Card(7, S)
+15: Card(4, D)
+16: Card(K, C)
+17: Card(Q, H)
+18: Card(Q, C)
+19: Card(9, C)
+
+Enter 'D' to draw a card, or enter the number of the card to play. 'D'
+[H[2JPlayer: 2
+Current Suit: H Current Card: Card(A, H)
+
+Your Hand:
+0: Card(8, S)
+1: Card(Q, D)
+2: Card(10, C)
+3: Card(3, D)
+4: Card(9, D)
+5: Card(J, D)
+6: Card(5, D)
+7: Card(3, C)
+8: Card(5, C)
+9: Card(9, H)
+10: Card(Q, S)
+11: Card(2, H)
+12: Card(10, H)
+13: Card(8, H)
+14: Card(7, S)
+15: Card(4, D)
+16: Card(K, C)
+17: Card(Q, H)
+18: Card(Q, C)
+19: Card(9, C)
+20: Card(3, S)
+
+Enter 'D' to draw a card, or enter the number of the card to play. d"\   'D'
+[H[2JPlayer: 2
+Current Suit: H Current Card: Card(A, H)
+
+Your Hand:
+0: Card(8, S)
+1: Card(Q, D)
+2: Card(10, C)
+3: Card(3, D)
+4: Card(9, D)
+5: Card(J, D)
+6: Card(5, D)
+7: Card(3, C)
+8: Card(5, C)
+9: Card(9, H)
+10: Card(Q, S)
+11: Card(2, H)
+12: Card(10, H)
+13: Card(8, H)
+14: Card(7, S)
+15: Card(4, D)
+16: Card(K, C)
+17: Card(Q, H)
+18: Card(Q, C)
+19: Card(9, C)
+20: Card(3, S)
+21: Card(6, D)
+
+Enter 'D' to draw a card, or enter the number of the card to play. 'D'
+[H[2JPlayer: 2
+Current Suit: H Current Card: Card(A, H)
+
+Your Hand:
+0: Card(8, S)
+1: Card(Q, D)
+2: Card(10, C)
+3: Card(3, D)
+4: Card(9, D)
+5: Card(J, D)
+6: Card(5, D)
+7: Card(3, C)
+8: Card(5, C)
+9: Card(9, H)
+10: Card(Q, S)
+11: Card(2, H)
+12: Card(10, H)
+13: Card(8, H)
+14: Card(7, S)
+15: Card(4, D)
+16: Card(K, C)
+17: Card(Q, H)
+18: Card(Q, C)
+19: Card(9, C)
+20: Card(3, S)
+21: Card(6, D)
+22: Card(K, D)
+
+Enter 'D' to draw a card, or enter the number of the card to play. 'D'
+[H[2JPlayer: 2
+Current Suit: H Current Card: Card(A, H)
+
+Your Hand:
+0: Card(8, S)
+1: Card(Q, D)
+2: Card(10, C)
+3: Card(3, D)
+4: Card(9, D)
+5: Card(J, D)
+6: Card(5, D)
+7: Card(3, C)
+8: Card(5, C)
+9: Card(9, H)
+10: Card(Q, S)
+11: Card(2, H)
+12: Card(10, H)
+13: Card(8, H)
+14: Card(7, S)
+15: Card(4, D)
+16: Card(K, C)
+17: Card(Q, H)
+18: Card(Q, C)
+19: Card(9, C)
+20: Card(3, S)
+21: Card(6, D)
+22: Card(K, D)
+23: Card(7, D)
+
+Enter 'D' to draw a card, or enter the number of the card to play. 'D'
+[H[2JPlayer: 2
+Current Suit: H Current Card: Card(A, H)
+
+Your Hand:
+0: Card(8, S)
+1: Card(Q, D)
+2: Card(10, C)
+3: Card(3, D)
+4: Card(9, D)
+5: Card(J, D)
+6: Card(5, D)
+7: Card(3, C)
+8: Card(5, C)
+9: Card(9, H)
+10: Card(Q, S)
+11: Card(2, H)
+12: Card(10, H)
+13: Card(8, H)
+14: Card(7, S)
+15: Card(4, D)
+16: Card(K, C)
+17: Card(Q, H)
+18: Card(Q, C)
+19: Card(9, C)
+20: Card(3, S)
+21: Card(6, D)
+22: Card(K, D)
+23: Card(7, D)
+24: Card(8, C)
+
+Enter 'D' to draw a card, or enter the number of the card to play. 'D'
+[H[2JPlayer: 2
+Current Suit: H Current Card: Card(A, H)
+
+Your Hand:
+0: Card(8, S)
+1: Card(Q, D)
+2: Card(10, C)
+3: Card(3, D)
+4: Card(9, D)
+5: Card(J, D)
+6: Card(5, D)
+7: Card(3, C)
+8: Card(5, C)
+9: Card(9, H)
+10: Card(Q, S)
+11: Card(2, H)
+12: Card(10, H)
+13: Card(8, H)
+14: Card(7, S)
+15: Card(4, D)
+16: Card(K, C)
+17: Card(Q, H)
+18: Card(Q, C)
+19: Card(9, C)
+20: Card(3, S)
+21: Card(6, D)
+22: Card(K, D)
+23: Card(7, D)
+24: Card(8, C)
+25: Card(K, H)
+
+Enter 'D' to draw a card, or enter the number of the card to play. 'D'
+[H[2JPlayer: 2
+Current Suit: H Current Card: Card(A, H)
+
+Your Hand:
+0: Card(8, S)
+1: Card(Q, D)
+2: Card(10, C)
+3: Card(3, D)
+4: Card(9, D)
+5: Card(J, D)
+6: Card(5, D)
+7: Card(3, C)
+8: Card(5, C)
+9: Card(9, H)
+10: Card(Q, S)
+11: Card(2, H)
+12: Card(10, H)
+13: Card(8, H)
+14: Card(7, S)
+15: Card(4, D)
+16: Card(K, C)
+17: Card(Q, H)
+18: Card(Q, C)
+19: Card(9, C)
+20: Card(3, S)
+21: Card(6, D)
+22: Card(K, D)
+23: Card(7, D)
+24: Card(8, C)
+25: Card(K, H)
+26: Card(J, H)
+
+Enter 'D' to draw a card, or enter the number of the card to play. 'D'
+[H[2JPlayer: 2
+Current Suit: H Current Card: Card(A, H)
+
+Your Hand:
+0: Card(8, S)
+1: Card(Q, D)
+2: Card(10, C)
+3: Card(3, D)
+4: Card(9, D)
+5: Card(J, D)
+6: Card(5, D)
+7: Card(3, C)
+8: Card(5, C)
+9: Card(9, H)
+10: Card(Q, S)
+11: Card(2, H)
+12: Card(10, H)
+13: Card(8, H)
+14: Card(7, S)
+15: Card(4, D)
+16: Card(K, C)
+17: Card(Q, H)
+18: Card(Q, C)
+19: Card(9, C)
+20: Card(3, S)
+21: Card(6, D)
+22: Card(K, D)
+23: Card(7, D)
+24: Card(8, C)
+25: Card(K, H)
+26: Card(J, H)
+27: Card(9, S)
+
+Enter 'D' to draw a card, or enter the number of the card to play. 'D'
+[H[2JPlayer: 2
+Current Suit: H Current Card: Card(A, H)
+
+Your Hand:
+0: Card(8, S)
+1: Card(Q, D)
+2: Card(10, C)
+3: Card(3, D)
+4: Card(9, D)
+5: Card(J, D)
+6: Card(5, D)
+7: Card(3, C)
+8: Card(5, C)
+9: Card(9, H)
+10: Card(Q, S)
+11: Card(2, H)
+12: Card(10, H)
+13: Card(8, H)
+14: Card(7, S)
+15: Card(4, D)
+16: Card(K, C)
+17: Card(Q, H)
+18: Card(Q, C)
+19: Card(9, C)
+20: Card(3, S)
+21: Card(6, D)
+22: Card(K, D)
+23: Card(7, D)
+24: Card(8, C)
+25: Card(K, H)
+26: Card(J, H)
+27: Card(9, S)
+28: Card(6, C)
+
+Enter 'D' to draw a card, or enter the number of the card to play. 'D'
+[H[2JPlayer: 2
+Current Suit: H Current Card: Card(A, H)
+
+Your Hand:
+0: Card(8, S)
+1: Card(Q, D)
+2: Card(10, C)
+3: Card(3, D)
+4: Card(9, D)
+5: Card(J, D)
+6: Card(5, D)
+7: Card(3, C)
+8: Card(5, C)
+9: Card(9, H)
+10: Card(Q, S)
+11: Card(2, H)
+12: Card(10, H)
+13: Card(8, H)
+14: Card(7, S)
+15: Card(4, D)
+16: Card(K, C)
+17: Card(Q, H)
+18: Card(Q, C)
+19: Card(9, C)
+20: Card(3, S)
+21: Card(6, D)
+22: Card(K, D)
+23: Card(7, D)
+24: Card(8, C)
+25: Card(K, H)
+26: Card(J, H)
+27: Card(9, S)
+28: Card(6, C)
+29: Card(A, S)
+
+Enter 'D' to draw a card, or enter the number of the card to play. 'D'
+[H[2JPlayer: 2
+Current Suit: H Current Card: Card(A, H)
+
+Your Hand:
+0: Card(8, S)
+1: Card(Q, D)
+2: Card(10, C)
+3: Card(3, D)
+4: Card(9, D)
+5: Card(J, D)
+6: Card(5, D)
+7: Card(3, C)
+8: Card(5, C)
+9: Card(9, H)
+10: Card(Q, S)
+11: Card(2, H)
+12: Card(10, H)
+13: Card(8, H)
+14: Card(7, S)
+15: Card(4, D)
+16: Card(K, C)
+17: Card(Q, H)
+18: Card(Q, C)
+19: Card(9, C)
+20: Card(3, S)
+21: Card(6, D)
+22: Card(K, D)
+23: Card(7, D)
+24: Card(8, C)
+25: Card(K, H)
+26: Card(J, H)
+27: Card(9, S)
+28: Card(6, C)
+29: Card(A, S)
+30: Card(10, S)
+
+Enter 'D' to draw a card, or enter the number of the card to play. 'D'
+[H[2JPlayer: 2
+Current Suit: H Current Card: Card(A, H)
+
+Your Hand:
+0: Card(8, S)
+1: Card(Q, D)
+2: Card(10, C)
+3: Card(3, D)
+4: Card(9, D)
+5: Card(J, D)
+6: Card(5, D)
+7: Card(3, C)
+8: Card(5, C)
+9: Card(9, H)
+10: Card(Q, S)
+11: Card(2, H)
+12: Card(10, H)
+13: Card(8, H)
+14: Card(7, S)
+15: Card(4, D)
+16: Card(K, C)
+17: Card(Q, H)
+18: Card(Q, C)
+19: Card(9, C)
+20: Card(3, S)
+21: Card(6, D)
+22: Card(K, D)
+23: Card(7, D)
+24: Card(8, C)
+25: Card(K, H)
+26: Card(J, H)
+27: Card(9, S)
+28: Card(6, C)
+29: Card(A, S)
+30: Card(10, S)
+31: Card(A, C)
+
+Enter 'D' to draw a card, or enter the number of the card to play. 'D'
+[H[2JPlayer: 2
+Current Suit: H Current Card: Card(A, H)
+
+Your Hand:
+0: Card(8, S)
+1: Card(Q, D)
+2: Card(10, C)
+3: Card(3, D)
+4: Card(9, D)
+5: Card(J, D)
+6: Card(5, D)
+7: Card(3, C)
+8: Card(5, C)
+9: Card(9, H)
+10: Card(Q, S)
+11: Card(2, H)
+12: Card(10, H)
+13: Card(8, H)
+14: Card(7, S)
+15: Card(4, D)
+16: Card(K, C)
+17: Card(Q, H)
+18: Card(Q, C)
+19: Card(9, C)
+20: Card(3, S)
+21: Card(6, D)
+22: Card(K, D)
+23: Card(7, D)
+24: Card(8, C)
+25: Card(K, H)
+26: Card(J, H)
+27: Card(9, S)
+28: Card(6, C)
+29: Card(A, S)
+30: Card(10, S)
+31: Card(A, C)
+32: Card(4, C)
+
+Enter 'D' to draw a card, or enter the number of the card to play. 'D'
+[H[2JPlayer: 2
+Current Suit: H Current Card: Card(A, H)
+
+Your Hand:
+0: Card(8, S)
+1: Card(Q, D)
+2: Card(10, C)
+3: Card(3, D)
+4: Card(9, D)
+5: Card(J, D)
+6: Card(5, D)
+7: Card(3, C)
+8: Card(5, C)
+9: Card(9, H)
+10: Card(Q, S)
+11: Card(2, H)
+12: Card(10, H)
+13: Card(8, H)
+14: Card(7, S)
+15: Card(4, D)
+16: Card(K, C)
+17: Card(Q, H)
+18: Card(Q, C)
+19: Card(9, C)
+20: Card(3, S)
+21: Card(6, D)
+22: Card(K, D)
+23: Card(7, D)
+24: Card(8, C)
+25: Card(K, H)
+26: Card(J, H)
+27: Card(9, S)
+28: Card(6, C)
+29: Card(A, S)
+30: Card(10, S)
+31: Card(A, C)
+32: Card(4, C)
+33: Card(K, S)
+
+Enter 'D' to draw a card, or enter the number of the card to play. '" D'
+[H[2JPlayer: 2
+Current Suit: H Current Card: Card(A, H)
+
+Your Hand:
+0: Card(8, S)
+1: Card(Q, D)
+2: Card(10, C)
+3: Card(3, D)
+4: Card(9, D)
+5: Card(J, D)
+6: Card(5, D)
+7: Card(3, C)
+8: Card(5, C)
+9: Card(9, H)
+10: Card(Q, S)
+11: Card(2, H)
+12: Card(10, H)
+13: Card(8, H)
+14: Card(7, S)
+15: Card(4, D)
+16: Card(K, C)
+17: Card(Q, H)
+18: Card(Q, C)
+19: Card(9, C)
+20: Card(3, S)
+21: Card(6, D)
+22: Card(K, D)
+23: Card(7, D)
+24: Card(8, C)
+25: Card(K, H)
+26: Card(J, H)
+27: Card(9, S)
+28: Card(6, C)
+29: Card(A, S)
+30: Card(10, S)
+31: Card(A, C)
+32: Card(4, C)
+33: Card(K, S)
+34: Card(J, C)
+
+Enter 'D' to draw a card, or enter the number of the card to play. 'D'
+[H[2JPlayer: 2
+Current Suit: H Current Card: Card(A, H)
+
+Your Hand:
+0: Card(8, S)
+1: Card(Q, D)
+2: Card(10, C)
+3: Card(3, D)
+4: Card(9, D)
+5: Card(J, D)
+6: Card(5, D)
+7: Card(3, C)
+8: Card(5, C)
+9: Card(9, H)
+10: Card(Q, S)
+11: Card(2, H)
+12: Card(10, H)
+13: Card(8, H)
+14: Card(7, S)
+15: Card(4, D)
+16: Card(K, C)
+17: Card(Q, H)
+18: Card(Q, C)
+19: Card(9, C)
+20: Card(3, S)
+21: Card(6, D)
+22: Card(K, D)
+23: Card(7, D)
+24: Card(8, C)
+25: Card(K, H)
+26: Card(J, H)
+27: Card(9, S)
+28: Card(6, C)
+29: Card(A, S)
+30: Card(10, S)
+31: Card(A, C)
+32: Card(4, C)
+33: Card(K, S)
+34: Card(J, C)
+35: Card(2, D)
+
+Enter 'D' to draw a card, or enter the number of the card to play. 'D'
+[H[2JPlayer: 2
+Current Suit: H Current Card: Card(A, H)
+
+Your Hand:
+0: Card(8, S)
+1: Card(Q, D)
+2: Card(10, C)
+3: Card(3, D)
+4: Card(9, D)
+5: Card(J, D)
+6: Card(5, D)
+7: Card(3, C)
+8: Card(5, C)
+9: Card(9, H)
+10: Card(Q, S)
+11: Card(2, H)
+12: Card(10, H)
+13: Card(8, H)
+14: Card(7, S)
+15: Card(4, D)
+16: Card(K, C)
+17: Card(Q, H)
+18: Card(Q, C)
+19: Card(9, C)
+20: Card(3, S)
+21: Card(6, D)
+22: Card(K, D)
+23: Card(7, D)
+24: Card(8, C)
+25: Card(K, H)
+26: Card(J, H)
+27: Card(9, S)
+28: Card(6, C)
+29: Card(A, S)
+30: Card(10, S)
+31: Card(A, C)
+32: Card(4, C)
+33: Card(K, S)
+34: Card(J, C)
+35: Card(2, D)
+36: Card(A, D)
+
+Enter 'D' to draw a card, or enter the number of the card to play. 'D'
+[H[2JPlayer: 2
+Current Suit: H Current Card: Card(A, H)
+
+Your Hand:
+0: Card(8, S)
+1: Card(Q, D)
+2: Card(10, C)
+3: Card(3, D)
+4: Card(9, D)
+5: Card(J, D)
+6: Card(5, D)
+7: Card(3, C)
+8: Card(5, C)
+9: Card(9, H)
+10: Card(Q, S)
+11: Card(2, H)
+12: Card(10, H)
+13: Card(8, H)
+14: Card(7, S)
+15: Card(4, D)
+16: Card(K, C)
+17: Card(Q, H)
+18: Card(Q, C)
+19: Card(9, C)
+20: Card(3, S)
+21: Card(6, D)
+22: Card(K, D)
+23: Card(7, D)
+24: Card(8, C)
+25: Card(K, H)
+26: Card(J, H)
+27: Card(9, S)
+28: Card(6, C)
+29: Card(A, S)
+30: Card(10, S)
+31: Card(A, C)
+32: Card(4, C)
+33: Card(K, S)
+34: Card(J, C)
+35: Card(2, D)
+36: Card(A, D)
+37: Card(6, S)
+
+Enter 'D' to draw a card, or enter the number of the card to play. 'D'
+[H[2JPlayer: 2
+Current Suit: H Current Card: Card(A, H)
+
+Your Hand:
+0: Card(8, S)
+1: Card(Q, D)
+2: Card(10, C)
+3: Card(3, D)
+4: Card(9, D)
+5: Card(J, D)
+6: Card(5, D)
+7: Card(3, C)
+8: Card(5, C)
+9: Card(9, H)
+10: Card(Q, S)
+11: Card(2, H)
+12: Card(10, H)
+13: Card(8, H)
+14: Card(7, S)
+15: Card(4, D)
+16: Card(K, C)
+17: Card(Q, H)
+18: Card(Q, C)
+19: Card(9, C)
+20: Card(3, S)
+21: Card(6, D)
+22: Card(K, D)
+23: Card(7, D)
+24: Card(8, C)
+25: Card(K, H)
+26: Card(J, H)
+27: Card(9, S)
+28: Card(6, C)
+29: Card(A, S)
+30: Card(10, S)
+31: Card(A, C)
+32: Card(4, C)
+33: Card(K, S)
+34: Card(J, C)
+35: Card(2, D)
+36: Card(A, D)
+37: Card(6, S)
+38: Card(5, S)
+
+Enter 'D' to draw a card, or enter the number of the card to play. 'D'
+[H[2JPlayer: 2
+Current Suit: H Current Card: Card(A, H)
+
+Your Hand:
+0: Card(8, S)
+1: Card(Q, D)
+2: Card(10, C)
+3: Card(3, D)
+4: Card(9, D)
+5: Card(J, D)
+6: Card(5, D)
+7: Card(3, C)
+8: Card(5, C)
+9: Card(9, H)
+10: Card(Q, S)
+11: Card(2, H)
+12: Card(10, H)
+13: Card(8, H)
+14: Card(7, S)
+15: Card(4, D)
+16: Card(K, C)
+17: Card(Q, H)
+18: Card(Q, C)
+19: Card(9, C)
+20: Card(3, S)
+21: Card(6, D)
+22: Card(K, D)
+23: Card(7, D)
+24: Card(8, C)
+25: Card(K, H)
+26: Card(J, H)
+27: Card(9, S)
+28: Card(6, C)
+29: Card(A, S)
+30: Card(10, S)
+31: Card(A, C)
+32: Card(4, C)
+33: Card(K, S)
+34: Card(J, C)
+35: Card(2, D)
+36: Card(A, D)
+37: Card(6, S)
+38: Card(5, S)
+39: Card(10, D)
+
+Enter 'D' to draw a card, or enter the number of the card to play. 'D'
+[H[2JGame over! Deck empty!
+bash-3.2$ exit
+exit
+
+Script done on Tue Mar 13 09:08:44 2018

@@ -5,7 +5,7 @@ from hand import Hand
 
 """
 CSC495 Team K: Alan Bishel, Christina Mara, Justin Mazzola
-Python implementation of Crazy Eights
+Python implementation of Crazy Eights/Bartok
 
 References:
     https://github.com/txt/plm18/blob/master/src/python/machines/machine.py
@@ -35,7 +35,7 @@ class Game(object):
         player2 = Hand()
         self.players = [player1, player2]
         # Shuffle the deck and draw the first card.
-        # self.deck.shuffle()
+        self.deck.shuffle()
         self.current_card = self.deck.draw()
         self.current_suit = self.current_card.suit
         for _ in range(0, 5):
@@ -110,7 +110,7 @@ class Game(object):
         os.system('clear')
         if len(self.deck) == 0:
             # Calculate card scores and decide winner.
-            print("Game over!")
+            print("Game over! Deck empty!")
         elif len(self.players[0].cards) == 0:
             print("Game over! Player 1 wins!")
         elif len(self.players[1].cards) == 0:
@@ -126,3 +126,10 @@ def main():
 
 if __name__ == '__main__':
     main()
+    
+"""
+Notes:
+You must use uppercase D to draw, could this be case insensitive?
+Is there a way to not need '' around each input as failing that crashes the game?
+Maybe some feedback for an invalid move?
+"""

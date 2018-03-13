@@ -1,0 +1,187 @@
+Script started on Tue Mar 13 09:09:16 2018
+[?1034hbash-3.2$ python game.py
+[H[2JPlayer: 1
+Current Suit: H Current Card: Card(10, H)
+
+Your Hand:
+0: Card(2, D)
+1: Card(3, H)
+2: Card(Q, H)
+3: Card(J, S)
+4: Card(8, S)
+
+Enter 'D' to draw a card, or enter the number of the card to play. '1'
+[H[2JPlayer: 1
+Current Suit: H Current Card: Card(3, H)
+
+Your Hand:
+0: Card(2, D)
+1: Card(Q, H)
+2: Card(J, S)
+3: Card(8, S)
+[H[2JPlayer: 2
+Current Suit: H Current Card: Card(3, H)
+
+Your Hand:
+0: Card(4, H)
+1: Card(K, C)
+2: Card(J, C)
+3: Card(4, S)
+4: Card(3, S)
+
+Enter 'D' to draw a card, or enter the number of the card to play. '0'
+[H[2JPlayer: 2
+Current Suit: H Current Card: Card(4, H)
+
+Your Hand:
+0: Card(K, C)
+1: Card(J, C)
+2: Card(4, S)
+3: Card(3, S)
+[H[2JPlayer: 1
+Current Suit: H Current Card: Card(4, H)
+
+Your Hand:
+0: Card(2, D)
+1: Card(Q, H)
+2: Card(J, S)
+3: Card(8, S)
+
+Enter 'D' to draw a card, or enter the number of the card to play. '1'
+[H[2JPlayer: 1
+Current Suit: H Current Card: Card(Q, H)
+
+Your Hand:
+0: Card(2, D)
+1: Card(J, S)
+2: Card(8, S)
+[H[2JPlayer: 2
+Current Suit: H Current Card: Card(Q, H)
+
+Your Hand:
+0: Card(K, C)
+1: Card(J, C)
+2: Card(4, S)
+3: Card(3, S)
+
+Enter 'D' to draw a card, or enter the number of the card to play. 'D'
+[H[2JPlayer: 2
+Current Suit: H Current Card: Card(Q, H)
+
+Your Hand:
+0: Card(K, C)
+1: Card(J, C)
+2: Card(4, S)
+3: Card(3, S)
+4: Card(Q, D)
+
+Enter 'D' to draw a card, or enter the number of the card to play. '4'
+[H[2JPlayer: 2
+Current Suit: D Current Card: Card(Q, D)
+
+Your Hand:
+0: Card(K, C)
+1: Card(J, C)
+2: Card(4, S)
+3: Card(3, S)
+[H[2JPlayer: 1
+Current Suit: D Current Card: Card(Q, D)
+
+Your Hand:
+0: Card(2, D)
+1: Card(J, S)
+2: Card(8, S)
+
+Enter 'D' to draw a card, or enter the number of the card to play. '0'
+[H[2JPlayer: 1
+Current Suit: D Current Card: Card(2, D)
+
+Your Hand:
+0: Card(J, S)
+1: Card(8, S)
+[H[2JPlayer: 2
+Current Suit: D Current Card: Card(2, D)
+
+Your Hand:
+0: Card(K, C)
+1: Card(J, C)
+2: Card(4, S)
+3: Card(3, S)
+
+Enter 'D' to draw a card, or enter the number of the card to play. 'D'
+[H[2JPlayer: 2
+Current Suit: D Current Card: Card(2, D)
+
+Your Hand:
+0: Card(K, C)
+1: Card(J, C)
+2: Card(4, S)
+3: Card(3, S)
+4: Card(3, C)
+
+Enter 'D' to draw a card, or enter the number of the card to play. 'D'
+[H[2JPlayer: 2
+Current Suit: D Current Card: Card(2, D)
+
+Your Hand:
+0: Card(K, C)
+1: Card(J, C)
+2: Card(4, S)
+3: Card(3, S)
+4: Card(3, C)
+5: Card(8, D)
+
+Enter 'D' to draw a card, or enter the number of the card to play. '5'
+[H[2JPlayer: 2
+Current Suit: D Current Card: Card(8, D)
+
+Your Hand:
+0: Card(K, C)
+1: Card(J, C)
+2: Card(4, S)
+3: Card(3, S)
+4: Card(3, C)
+[H[2JPlayer: 1
+Current Suit: D Current Card: Card(8, D)
+
+Your Hand:
+0: Card(J, S)
+1: Card(8, S)
+
+Enter 'D' to draw a card, or enter the number of the card to play. '1'
+[H[2JPlayer: 1
+Current Suit: S Current Card: Card(8, S)
+
+Your Hand:
+0: Card(J, S)
+[H[2JPlayer: 2
+Current Suit: S Current Card: Card(8, S)
+
+Your Hand:
+0: Card(K, C)
+1: Card(J, C)
+2: Card(4, S)
+3: Card(3, S)
+4: Card(3, C)
+
+Enter 'D' to draw a card, or enter the number of the card to play. '2'
+[H[2JPlayer: 2
+Current Suit: S Current Card: Card(4, S)
+
+Your Hand:
+0: Card(K, C)
+1: Card(J, C)
+2: Card(3, S)
+3: Card(3, C)
+[H[2JPlayer: 1
+Current Suit: S Current Card: Card(4, S)
+
+Your Hand:
+0: Card(J, S)
+
+Enter 'D' to draw a card, or enter the number of the card to play. '0'
+[H[2JGame over! Player 1 wins!
+bash-3.2$ exit
+exit
+
+Script done on Tue Mar 13 09:10:01 2018
