@@ -1,12 +1,12 @@
-from hand import hand
+from hand import Hand
 
 class Player(object):
     
-    def __init__(self, hand):
+    def __init__(self):
         """
         Init method for a player.
         """
-        self.hand = hand
+        self.hand = Hand()
             
     def getHand(self):
         #returns the hand, could be used with game engine to get hand
