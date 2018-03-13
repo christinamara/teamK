@@ -45,4 +45,19 @@ class Game(object):
     def controller(self):
         #this is the game controller
         #could also be where we put the machine and stuff
-        print()
+        run(self)
+
+    def run(self):
+        round = 1
+        try:
+            while True:
+                print("Game Round #" + str(round))
+                # player 1 turn
+                print ("Player 1's turn")
+
+                # player 2 turn
+                print ("Player 2's turn")
+
+                round = round + 1
+        except Exception:
+            print("Game error")
