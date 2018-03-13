@@ -15,7 +15,10 @@ References:
 class Game(object):
     
     def __init__(self):
-        # Initialize game object
+        """
+        Initialize game object
+        :return: None
+        """
         self.deck = Deck()
         self.players = {}
         self.discard = deque()
@@ -23,6 +26,10 @@ class Game(object):
         self.current_suit = None
 
     def start(self):
+        """
+        Begin the game
+        :return: None
+        """
         # Initialize the players
         player1 = Hand()
         player2 = Hand()
@@ -36,6 +43,10 @@ class Game(object):
             self.players[1].append(self.deck.draw())
 
     def print_cli(self, player):  
+        """
+        Print the command line interface.
+        :return: None
+        """
         os.system("clear")
         player_no = self.players.index(player) + 1
         print("Player: %d" % player_no)
@@ -45,6 +56,10 @@ class Game(object):
             print("%d: %s" % (player.cards.index(card), card))
 
     def turn(self, player):
+        """
+        Complete a player's turn
+        :return: True if game ending condition
+        """
         valid_play = False
         self.print_cli(player)
         while not valid_play:
@@ -79,14 +94,18 @@ class Game(object):
         return False
 
     def run(self):
+        """
+        Run the game of crazy eights.
+        :return: None
+        """
         self.start()
         game_end = False
         while not game_end:
             for player in self.players:
-               if game_end:
-                   break
-               else:
-                   game_end = self.turn(player)
+                if game_end:
+                    break
+                else:
+                    game_end = self.turn(player)
                 
         os.system('clear')
         if len(self.deck) == 0:
@@ -101,6 +120,7 @@ class Game(object):
 
 
 def main():
+    """ Main method """
     crazy_eights = Game()
     crazy_eights.run()
 
