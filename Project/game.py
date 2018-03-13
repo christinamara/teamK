@@ -41,7 +41,7 @@ class Game(object):
             card = deck.draw()
             hand.append(card)
         player2.changeHand(hand)
-        
+
     def controller(self):
         #this is the game controller
         #could also be where we put the machine and stuff
@@ -54,10 +54,11 @@ class Game(object):
                 print("Game Round #" + str(round))
                 # player 1 turn
                 print ("Player 1's turn")
-
+                turn(self, 1)
                 # player 2 turn
                 print ("Player 2's turn")
-
+                turn(self, 2)
                 round = round + 1
         except Exception:
             print("Game error")
+
