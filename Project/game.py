@@ -64,7 +64,7 @@ class Game(object):
         self.print_cli(player)
         while not valid_play:
             play = input("\nEnter \'D\' to draw a card, or enter the number of the card to play. ")
-            if play is 'D':
+            if play is 'D' or play is 'd':
                 player.append(self.deck.draw())
                 if len(self.deck) is 0:
                     return True
