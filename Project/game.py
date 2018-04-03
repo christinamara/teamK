@@ -87,10 +87,11 @@ class Game(object):
                     if len(player) == 0:
                         return True
                 else:
+                    print("invalid play")
                     self.print_cli(player)
             else:
                 self.print_cli(player)
-            self.print_cli(player)
+            #self.print_cli(player)
         return False
 
     def run(self):
