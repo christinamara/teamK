@@ -75,9 +75,7 @@ class Game(object):
                 played_card = player.cards[int(play)]
                 if player.cards[int(play)].rank is 8:
                     suit = input("You played an 8! What suit (C, D, H, S) would you like to choose?" ).upper()
-                    print("suit is: " + suit.upper()[0] + ".")
                     if suit in suits:
-                        print("found")
                         valid_play = True
                         self.current_suit = suit
                         self.current_card = 0
