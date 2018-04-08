@@ -2,6 +2,7 @@ import os
 from collections import deque
 from deck import Deck
 from hand import Hand
+from suits import suits
 
 """
 CSC495 Team K: Alan Bishel, Christina Mara, Justin Mazzola
@@ -50,7 +51,8 @@ class Game(object):
         os.system("clear")
         player_no = self.players.index(player) + 1
         print("Player: %d" % player_no)
-        print("Current Suit: %s Current Card: %s\n" % (self.current_suit, self.current_card))
+        if self.current_card == 0: print("Current Suit: %s" % self.current_suit)
+        else: print("Current Card: %s\n" % (self.current_card))
         print("Your Hand:")
         for card in player.cards:
             print("%d: %s" % (player.cards.index(card), card))
@@ -64,21 +66,20 @@ class Game(object):
         self.print_cli(player)
         while not valid_play:
             play = input("\nEnter \'D\' to draw a card, or enter the number of the card to play. ")
-            if play is 'D':
+            if play is 'D' or play is 'd':
                 player.append(self.deck.draw())
+                self.print_cli(player)
                 if len(self.deck) is 0:
                     return True
             elif str.isdigit(play) and int(play) <= len(player):
                 played_card = player.cards[int(play)]
-                # ToDo: Add logic for opponent plays a suit different from the current one after playing an 8
-                # if player.cards[play].rank is 8:
-                #     while not valid_play:
-                #         self.print_cli(player)
-                #         suit = input("You played an 8! What suit (C, D, H, S) would you like to choose?" )
-                #         if suit in suits:
-                #             valid_play = True
-                #             self.current_suit = suit
-                if played_card.suit == self.current_suit or played_card.rank == self.current_card.rank:
+                if player.cards[int(play)].rank is 8:
+                    suit = input("You played an 8! What suit (C, D, H, S) would you like to choose?" ).upper()
+                    if suit in suits:
+                        valid_play = True
+                        self.current_suit = suit
+                        self.current_card = 0
+                elif played_card.suit == self.current_suit or played_card.rank == self.current_card.rank:
                     valid_play = True
                     player.remove_card(played_card)
                     self.current_card = played_card
@@ -87,10 +88,11 @@ class Game(object):
                     if len(player) == 0:
                         return True
                 else:
+                    print("Invalid play, try again.")
                     self.print_cli(player)
             else:
                 self.print_cli(player)
-            self.print_cli(player)
+            #self.print_cli(player)
         return False
 
     def run(self):
@@ -107,7 +109,7 @@ class Game(object):
                 else:
                     game_end = self.turn(player)
                 
-        os.system('clear')
+        #os.system('clear')
         if len(self.deck) == 0:
             # Calculate card scores and decide winner.
             print("Game over! Deck empty!")
