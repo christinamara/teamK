@@ -45,6 +45,18 @@ class Hand(object):
         else:
             return None
 
+    def score(self):
+        score = 0
+        for card in self.cards:
+            card_score = card.value() + 2
+            if card_score >= 10:
+                score += 10
+            elif card_score is 8:
+                score += 50
+            else:
+                score += card_score
+        return score
+
     def __repr__(self):
         """
         Returns a string representation of a hand.

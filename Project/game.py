@@ -51,8 +51,10 @@ class Game(object):
         os.system("clear")
         player_no = self.players.index(player) + 1
         print("Player: %d" % player_no)
-        if self.current_card == 0: print("Current Suit: %s" % self.current_suit)
-        else: print("Current Card: %s\n" % (self.current_card))
+        if self.current_card == 0: 
+            print("Current Suit: %s" % self.current_suit)
+        else: 
+            print("Current Card: %s\n" % (self.current_card))
         print("Your Hand:")
         for card in player.cards:
             print("%d: %s" % (player.cards.index(card), card))
@@ -74,7 +76,7 @@ class Game(object):
             elif str.isdigit(play) and int(play) <= len(player):
                 played_card = player.cards[int(play)]
                 if player.cards[int(play)].rank is 8:
-                    suit = input("You played an 8! What suit (C, D, H, S) would you like to choose?" ).upper()
+                    suit = input("You played an 8! What suit (C, D, H, S) would you like to choose? ").upper()
                     if suit in suits:
                         valid_play = True
                         self.current_suit = suit
@@ -112,7 +114,16 @@ class Game(object):
         #os.system('clear')
         if len(self.deck) == 0:
             # Calculate card scores and decide winner.
-            print("Game over! Deck empty!")
+            print("Game over! Deck empty!")  
+            print("Player 1 score: %d\nPlayer 2 score: %d" % (self.players[0].score(), self.players[1].score()))            
+            if self.players[0].score() < self.players[1].score():
+                print("Player 1 wins!")
+            elif self.players[0].score() > self.players[1].score(): 
+                print("Player 2 wins!")
+            elif self.players[0].score() == self.players[1].score():
+                print("It's a tie!")
+            else:
+                print("Game over! Something went wrong!")
         elif len(self.players[0].cards) == 0:
             print("Game over! Player 1 wins!")
         elif len(self.players[1].cards) == 0:

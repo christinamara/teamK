@@ -6,6 +6,7 @@ class Player(object):
         """
         Init method for a player.
         """
+        self.score = 0
         self.hand = Hand()
             
     def getHand(self):
