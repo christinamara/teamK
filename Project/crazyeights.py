@@ -6,7 +6,7 @@ from suits import suits
 
 """
 CSC495 Team K: Alan Bishel, Christina Mara, Justin Mazzola
-Python implementation of Crazy Eights/Bartok
+Python implementation of Crazy Eights
 
 References:
     https://github.com/txt/plm18/blob/master/src/python/machines/machine.py
@@ -142,9 +142,3 @@ def main():
 if __name__ == '__main__':
     main()
     
-"""
-Notes:
-You must use uppercase D to draw, could this be case insensitive?
-Is there a way to not need '' around each input as failing that crashes the game?
-Maybe some feedback for an invalid move?
-"""

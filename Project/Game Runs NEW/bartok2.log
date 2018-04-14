@@ -1,0 +1,381 @@
+Script started on Sat Apr 14 18:44:01 2018
+[?1034hbash-3.2$ python3 bartok.py
+[H[2JPlayer: 1
+Current Card: Card(2, S)
+
+Your Hand:
+0: Card(5, D)
+1: Card(7, H)
+2: Card(10, D)
+3: Card(K, S)
+4: Card(4, H)
+
+Enter 'D' to draw a card, or enter the number of the card to play. 3
+[H[2JPlayer: 2
+Current Card: Card(K, S)
+
+Your Hand:
+0: Card(A, H)
+1: Card(Q, H)
+2: Card(A, S)
+3: Card(J, D)
+4: Card(K, C)
+
+Enter 'D' to draw a card, or enter the number of the card to play. 2
+[H[2JPlayer: 1
+Current Card: Card(A, S)
+
+Your Hand:
+0: Card(5, D)
+1: Card(7, H)
+2: Card(10, D)
+3: Card(4, H)
+
+Enter 'D' to draw a card, or enter the number of the card to play. d
+[H[2JPlayer: 1
+Current Card: Card(A, S)
+
+Your Hand:
+0: Card(5, D)
+1: Card(7, H)
+2: Card(10, D)
+3: Card(4, H)
+4: Card(K, D)
+
+Enter 'D' to draw a card, or enter the number of the card to play. d
+[H[2JPlayer: 1
+Current Card: Card(A, S)
+
+Your Hand:
+0: Card(5, D)
+1: Card(7, H)
+2: Card(10, D)
+3: Card(4, H)
+4: Card(K, D)
+5: Card(5, H)
+
+Enter 'D' to draw a card, or enter the number of the card to play. d
+[H[2JPlayer: 1
+Current Card: Card(A, S)
+
+Your Hand:
+0: Card(5, D)
+1: Card(7, H)
+2: Card(10, D)
+3: Card(4, H)
+4: Card(K, D)
+5: Card(5, H)
+6: Card(9, C)
+
+Enter 'D' to draw a card, or enter the number of the card to play. d
+[H[2JPlayer: 1
+Current Card: Card(A, S)
+
+Your Hand:
+0: Card(5, D)
+1: Card(7, H)
+2: Card(10, D)
+3: Card(4, H)
+4: Card(K, D)
+5: Card(5, H)
+6: Card(9, C)
+7: Card(3, H)
+
+Enter 'D' to draw a card, or enter the number of the card to play. d
+[H[2JPlayer: 1
+Current Card: Card(A, S)
+
+Your Hand:
+0: Card(5, D)
+1: Card(7, H)
+2: Card(10, D)
+3: Card(4, H)
+4: Card(K, D)
+5: Card(5, H)
+6: Card(9, C)
+7: Card(3, H)
+8: Card(4, S)
+
+Enter 'D' to draw a card, or enter the number of the card to play. 8
+[H[2JPlayer: 2
+Current Card: Card(4, S)
+
+Your Hand:
+0: Card(A, H)
+1: Card(Q, H)
+2: Card(J, D)
+3: Card(K, C)
+
+Enter 'D' to draw a card, or enter the number of the card to play. d
+[H[2JPlayer: 2
+Current Card: Card(4, S)
+
+Your Hand:
+0: Card(A, H)
+1: Card(Q, H)
+2: Card(J, D)
+3: Card(K, C)
+4: Card(10, H)
+
+Enter 'D' to draw a card, or enter the number of the card to play. d
+[H[2JPlayer: 2
+Current Card: Card(4, S)
+
+Your Hand:
+0: Card(A, H)
+1: Card(Q, H)
+2: Card(J, D)
+3: Card(K, C)
+4: Card(10, H)
+5: Card(4, D)
+
+Enter 'D' to draw a card, or enter the number of the card to play. d
+[H[2JPlayer: 2
+Current Card: Card(4, S)
+
+Your Hand:
+0: Card(A, H)
+1: Card(Q, H)
+2: Card(J, D)
+3: Card(K, C)
+4: Card(10, H)
+5: Card(4, D)
+6: Card(6, H)
+
+Enter 'D' to draw a card, or enter the number of the card to play. 5
+[H[2JPlayer: 1
+Current Card: Card(4, D)
+
+Your Hand:
+0: Card(5, D)
+1: Card(7, H)
+2: Card(10, D)
+3: Card(4, H)
+4: Card(K, D)
+5: Card(5, H)
+6: Card(9, C)
+7: Card(3, H)
+
+Enter 'D' to draw a card, or enter the number of the card to play. 0
+[H[2JPlayer: 2
+Current Card: Card(5, D)
+
+Your Hand:
+0: Card(A, H)
+1: Card(Q, H)
+2: Card(J, D)
+3: Card(K, C)
+4: Card(10, H)
+5: Card(6, H)
+
+Enter 'D' to draw a card, or enter the number of the card to play. 2
+[H[2JPlayer: 1
+Current Card: Card(J, D)
+
+Your Hand:
+0: Card(7, H)
+1: Card(10, D)
+2: Card(4, H)
+3: Card(K, D)
+4: Card(5, H)
+5: Card(9, C)
+6: Card(3, H)
+
+Enter 'D' to draw a card, or enter the number of the card to play. 3
+[H[2JPlayer: 2
+Current Card: Card(K, D)
+
+Your Hand:
+0: Card(A, H)
+1: Card(Q, H)
+2: Card(K, C)
+3: Card(10, H)
+4: Card(6, H)
+
+Enter 'D' to draw a card, or enter the number of the card to play. 2
+[H[2JPlayer: 1
+Current Card: Card(K, C)
+
+Your Hand:
+0: Card(7, H)
+1: Card(10, D)
+2: Card(4, H)
+3: Card(5, H)
+4: Card(9, C)
+5: Card(3, H)
+
+Enter 'D' to draw a card, or enter the number of the card to play. 4
+[H[2JPlayer: 2
+Current Card: Card(9, C)
+
+Your Hand:
+0: Card(A, H)
+1: Card(Q, H)
+2: Card(10, H)
+3: Card(6, H)
+
+Enter 'D' to draw a card, or enter the number of the card to play. d
+[H[2JPlayer: 2
+Current Card: Card(9, C)
+
+Your Hand:
+0: Card(A, H)
+1: Card(Q, H)
+2: Card(10, H)
+3: Card(6, H)
+4: Card(J, S)
+
+Enter 'D' to draw a card, or enter the number of the card to play. d
+[H[2JPlayer: 2
+Current Card: Card(9, C)
+
+Your Hand:
+0: Card(A, H)
+1: Card(Q, H)
+2: Card(10, H)
+3: Card(6, H)
+4: Card(J, S)
+5: Card(Q, C)
+
+Enter 'D' to draw a card, or enter the number of the card to play. 5
+[H[2JPlayer: 1
+Current Card: Card(Q, C)
+
+Your Hand:
+0: Card(7, H)
+1: Card(10, D)
+2: Card(4, H)
+3: Card(5, H)
+4: Card(3, H)
+
+Enter 'D' to draw a card, or enter the number of the card to play. d
+[H[2JPlayer: 1
+Current Card: Card(Q, C)
+
+Your Hand:
+0: Card(7, H)
+1: Card(10, D)
+2: Card(4, H)
+3: Card(5, H)
+4: Card(3, H)
+5: Card(Q, D)
+
+Enter 'D' to draw a card, or enter the number of the card to play. 5
+[H[2JPlayer: 2
+Current Card: Card(Q, D)
+
+Your Hand:
+0: Card(A, H)
+1: Card(Q, H)
+2: Card(10, H)
+3: Card(6, H)
+4: Card(J, S)
+
+Enter 'D' to draw a card, or enter the number of the card to play. 1
+[H[2JPlayer: 1
+Current Card: Card(Q, H)
+
+Your Hand:
+0: Card(7, H)
+1: Card(10, D)
+2: Card(4, H)
+3: Card(5, H)
+4: Card(3, H)
+
+Enter 'D' to draw a card, or enter the number of the card to play. 0
+[H[2JPlayer: 2
+Current Card: Card(7, H)
+
+Your Hand:
+0: Card(A, H)
+1: Card(10, H)
+2: Card(6, H)
+3: Card(J, S)
+
+Enter 'D' to draw a card, or enter the number of the card to play. 0
+[H[2JPlayer: 1
+Current Card: Card(A, H)
+
+Your Hand:
+0: Card(10, D)
+1: Card(4, H)
+2: Card(5, H)
+3: Card(3, H)
+
+Enter 'D' to draw a card, or enter the number of the card to play. 1
+[H[2JPlayer: 2
+Current Card: Card(4, H)
+
+Your Hand:
+0: Card(10, H)
+1: Card(6, H)
+2: Card(J, S)
+
+Enter 'D' to draw a card, or enter the number of the card to play. 0
+[H[2JPlayer: 1
+Current Card: Card(10, H)
+
+Your Hand:
+0: Card(10, D)
+1: Card(5, H)
+2: Card(3, H)
+
+Enter 'D' to draw a card, or enter the number of the card to play. 1
+[H[2JPlayer: 2
+Current Card: Card(5, H)
+
+Your Hand:
+0: Card(6, H)
+1: Card(J, S)
+
+Enter 'D' to draw a card, or enter the number of the card to play. 0
+[H[2JPlayer: 1
+Current Card: Card(6, H)
+
+Your Hand:
+0: Card(10, D)
+1: Card(3, H)
+
+Enter 'D' to draw a card, or enter the number of the card to play. 1
+[H[2JPlayer: 2
+Current Card: Card(3, H)
+
+Your Hand:
+0: Card(J, S)
+
+Enter 'D' to draw a card, or enter the number of the card to play. d
+[H[2JPlayer: 2
+Current Card: Card(3, H)
+
+Your Hand:
+0: Card(J, S)
+1: Card(3, S)
+
+Enter 'D' to draw a card, or enter the number of the card to play. 1
+[H[2JPlayer: 1
+Current Card: Card(3, S)
+
+Your Hand:
+0: Card(10, D)
+
+Enter 'D' to draw a card, or enter the number of the card to play. d
+[H[2JPlayer: 1
+Current Card: Card(3, S)
+
+Your Hand:
+0: Card(10, D)
+1: Card(9, S)
+
+Enter 'D' to draw a card, or enter the number of the card to play. 1
+[H[2JPlayer: 2
+Current Card: Card(9, S)
+
+Your Hand:
+0: Card(J, S)
+
+Enter 'D' to draw a card, or enter the number of the card to play. 0
+Game over! Player 2 wins!
+bash-3.2$ exit
+exit
+
+Script done on Sat Apr 14 18:45:06 2018

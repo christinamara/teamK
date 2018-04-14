@@ -17,8 +17,4 @@ class Player(object):
         #passes in new hand by game engine to change player hand
         self.hand = hand
         
-    """
-    The player just stores the hand... hand stores cards and you know
-    This should theoretically be all this class needs...
-    since the engine will control the moves and stuff
-    """
+    
