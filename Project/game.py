@@ -81,6 +81,8 @@ class Game(object):
                         valid_play = True
                         self.current_suit = suit
                         self.current_card = 0
+                        player.remove_card(played_card)
+                        self.discard.append(played_card)
                 elif played_card.suit == self.current_suit or played_card.rank == self.current_card.rank:
                     valid_play = True
                     player.remove_card(played_card)
